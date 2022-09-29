@@ -1,0 +1,3 @@
+def mian():
+  pass
+main()
