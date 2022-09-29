@@ -1,3 +1,3 @@
-def mian():
+def main():
   pass
 main()
